@@ -26,5 +26,6 @@
     <module>security-jwt</module>
     <module>spring-security</module>
     <module>SpringSecurity</module>
+    <module>social</module>
   </modules>
 </project>
