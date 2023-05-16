@@ -27,5 +27,6 @@
     <module>spring-security</module>
     <module>SpringSecurity</module>
     <module>social</module>
+    <module>security-complete</module>
   </modules>
 </project>
